@@ -8,6 +8,7 @@ edition = "2018"
 
 [dependencies]
 clap = "2.33.3"
+structopt = "0.3.17"
 
 
 [dev-dependencies]
